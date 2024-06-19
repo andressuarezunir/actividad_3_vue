@@ -11,5 +11,3 @@ import BannerSection from '../components/BannerSection.vue'
   <TestimonialSection />
   <BannerSection />
 </template>
-
-<style></style>
