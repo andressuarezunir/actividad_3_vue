@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router'
 
 const title = 'Barrio Getsemaní'
 const description =
-  ' Getsemaní es un barrio con una historia contundente que siempre ha estado ligada a los movimientos de protesta y revolución. En sus orígenes fue una isla a las afueras de la ciudad amurallada separada de la ciudad, y en tiempos coloniales fue el barrio donde vivieron muchos de los esclavos que llegaron desde África a Colombia para asentarse en el puerto de Cartagena. MARS'
+  ' Getsemaní es un barrio con una historia contundente que siempre ha estado ligada a los movimientos de protesta y revolución. En sus orígenes fue una isla a las afueras de la ciudad amurallada separada de la ciudad, y en tiempos coloniales fue el barrio donde vivieron muchos de los esclavos que llegaron desde África a Colombia para asentarse en el puerto de Cartagena.'
 const startBtnText = 'Iniciar'
 const contactBtnText = 'Conocer más'
 </script>
