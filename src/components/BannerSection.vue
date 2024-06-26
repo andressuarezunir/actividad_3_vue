@@ -4,8 +4,8 @@ const text =
 </script>
 
 <template>
-  <section class="container px-5 pt-3 pb-5">
-    <aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5">
+  <section class="container px-5 pb-5">
+    <aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5">
       <div
         class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start"
       >
